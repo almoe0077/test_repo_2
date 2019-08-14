@@ -1,0 +1,7 @@
+changes before fitst commit
+
+<<<<<<< HEAD
+changes don  directly online in github.com
+=======
+changes done after the first commit (meanwhile on the server a new commit was made online)
+>>>>>>> master
